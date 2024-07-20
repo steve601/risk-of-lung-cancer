@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/odhia/OneDrive/Desktop/datascienceproject/notebooks/Decision_tree_mlruns/882213204614705365/8ddfe4ae59364cf5855b9f2480ec97bf/artifacts
+end_time: 1721483604842
+entry_point_name: ''
+experiment_id: '882213204614705365'
+lifecycle_stage: active
+run_id: 8ddfe4ae59364cf5855b9f2480ec97bf
+run_name: tree_run
+run_uuid: 8ddfe4ae59364cf5855b9f2480ec97bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721483534369
+status: 3
+tags: []
+user_id: odhia

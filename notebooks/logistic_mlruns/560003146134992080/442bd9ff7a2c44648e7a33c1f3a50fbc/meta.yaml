@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/odhia/OneDrive/Desktop/datascienceproject/notebooks/logistic_mlruns/560003146134992080/442bd9ff7a2c44648e7a33c1f3a50fbc/artifacts
+end_time: 1721483469715
+entry_point_name: ''
+experiment_id: '560003146134992080'
+lifecycle_stage: active
+run_id: 442bd9ff7a2c44648e7a33c1f3a50fbc
+run_name: logistic_run
+run_uuid: 442bd9ff7a2c44648e7a33c1f3a50fbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721483312609
+status: 3
+tags: []
+user_id: odhia

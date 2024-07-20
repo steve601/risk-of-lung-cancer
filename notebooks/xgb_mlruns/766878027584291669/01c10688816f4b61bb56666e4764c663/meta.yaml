@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/odhia/OneDrive/Desktop/datascienceproject/notebooks/xgb_mlruns/766878027584291669/01c10688816f4b61bb56666e4764c663/artifacts
+end_time: 1721483926327
+entry_point_name: ''
+experiment_id: '766878027584291669'
+lifecycle_stage: active
+run_id: 01c10688816f4b61bb56666e4764c663
+run_name: xgb_run
+run_uuid: 01c10688816f4b61bb56666e4764c663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721483912920
+status: 3
+tags: []
+user_id: odhia
